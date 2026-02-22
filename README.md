@@ -1,5 +1,3 @@
-`jpackage --input [输入目录] --main-jar employee-sys.jar --name ManageDemoApp --type app-image --icon "app.ico" --dest [输出目录]`
-
 # Java用户管理系统（GUI）
 
 一个基于Java Swing教学开发模仿的用户管理系统GUI练习项目，支持用户增删、登录验证的基础功能。
