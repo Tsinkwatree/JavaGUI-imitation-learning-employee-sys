@@ -39,9 +39,9 @@
 - jpackage
 
 ## 📸 项目截图
-![登录界面](docs\LoginUI.png)
+![登录界面](docs/LoginUI.png)
 
-![内部管理界面](docs\InnerUI.png)
+![内部管理界面](docs/InnerUI.png)
 
 ## 📄 许可证
 
