@@ -39,10 +39,9 @@
 - jpackage
 
 ## 📸 项目截图
+![登录界面](docs\LoginUI.png)
 
-<img title="" src="file:///D:/Kwacherry/Program/Markdown/Marktext/ImageDatas/6064ea6e1b7b0a16c9f40dad04badf8cb401e28b.png" alt="登录界面" data-align="inline">
-
-![内部管理界面](D:\Kwacherry\Program\Markdown\Marktext\ImageDatas\f085b5f81a9ca788f4b667bb48f919a1e773ffa4.png)
+![内部管理界面](docs\InnerUI.png)
 
 ## 📄 许可证
 
